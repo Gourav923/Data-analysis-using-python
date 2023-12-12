@@ -8,6 +8,9 @@ Increase revenue
 
 Project learnings:
 -> Performed data cleaning and manipulation.
+
 -> Performed EDA using pandas, matplotlib and seaborn libraries.
+
 -> Improve customer experience by identify potential customers across different states, occupation, gender and age group.
+
 -> Improve sales by identifying most selling product categories which can help to plan inventory and hence meet hte demands
